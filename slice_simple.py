@@ -1,6 +1,6 @@
 def slice_simple():
-    texto="Awesome"
-    texto=input("")
+    texto="Hello, World!"
+    texto=input("").lower()
 print(texto[4::2])
     # Código a implementar, se debe utilizar la variable 'texto' para resolver el ejercicio.
     # No se debe modificar la definición de la función, ni ingresar otro valor mediante input.
